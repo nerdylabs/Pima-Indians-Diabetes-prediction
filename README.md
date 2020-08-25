@@ -17,5 +17,6 @@ If you have a look the model is trained for 1000 'EPOCHS;. Now when you predict 
 Now this threshold value that was 50% for me you can change this to any value(Say 0.9 for 90% confidence depending). 
 I first caluclated the training accuracy which was some where around '92%', Then i validated the model over the test data and the accuray was around '87.5%'.
 I saved this model with the name 'Model1.pth' which is the pytorch format of saving a model for future use. The last code of the notebook shows how you can load the saved model.
-I have also uploades the 'Model1.pth' in this repo as well
+
+I have also uploades the 'Model1.pth' in this repo as well.
 
